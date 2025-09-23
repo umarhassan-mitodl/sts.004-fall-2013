@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 4b980da9-c00e-5821-9de3-89cfcae8bd6d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d9630192-af39-8381-5030-4047131bb112
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: ff7c539c-db07-ca4c-e693-78753fbf08a2
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 65ba492e-e5d1-1e4f-ced6-108c36346a90
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: a79dfb7c-a6ae-34af-c31c-0a452e23611b
+  name: Photography Project
+  pageRef: /pages/assignments/photography-project
+  parent: 65ba492e-e5d1-1e4f-ced6-108c36346a90
+  weight: 50
+- identifier: 35dd2331-d7a2-9f81-1716-100cb62452c4
+  name: Final Report
+  pageRef: /pages/assignments/final-report
+  parent: 65ba492e-e5d1-1e4f-ced6-108c36346a90
+  weight: 60
+- identifier: aadb6ab8-975f-2e92-35f0-d477785c98be
+  name: Keywords and Concepts
+  pageRef: /pages/assignments/keywords-and-concepts
+  parent: 65ba492e-e5d1-1e4f-ced6-108c36346a90
+  weight: 70
+- identifier: fb060147-13f8-5119-9a79-a03f7aac4988
+  name: Quiz Review
+  pageRef: /pages/assignments/quiz-review
+  parent: 65ba492e-e5d1-1e4f-ced6-108c36346a90
+  weight: 80

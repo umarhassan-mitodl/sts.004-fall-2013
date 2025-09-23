@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "legacy_uid": "b337a7ac-a288-2f11-e5cb-efcb176a16d4",
+  "instructors": {
+    "content": [
+      "ff3f95cc-6ddb-69b1-10a7-b706dabe048d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8d90c06a-6ade-aa31-ff4a-68ce517b9558",
+    "website": "sts-004-science-technology-world-fall-2013"
+  },
+  "course_title": "Science, Technology, & World",
+  "course_description": "This class is an introduction to studies in science, technology, and society (STS), through examining a series of issues, events, conflicts, and problems as illuminated by STS approaches. This iteration includes units on the Aaron Swartz case, photography, and utopia / dystopia. There are regular guest speakers, and several field trips to encourage hands on learning.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.004",
+  "course_image_thumbnail": {
+    "content": "43736a56-d1ea-0fd9-4988-305bbdde389b",
+    "website": "sts-004-science-technology-world-fall-2013"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "3dc79575-b9b9-43a0-950c-78e2b552b95b",
+  "site_short_id": "sts.004-fall-2013",
+  "site_url_path": "courses/sts-004-science-technology-world-fall-2013",
+  "title": "Course Metadata"
+}
