@@ -27,7 +27,7 @@ Downes, Kieran. "What is STS?"
 {{< tdclose >}}{{< tdopen >}}
 Introduction to Key Words and Concepts
 {{< tdclose >}}{{< tdopen >}}
-Marx, Leo. "{{% resource_link "3e6b223f-1333-4ecb-acb5-848f5179c0c7" "Technology: The Emergence of a Hazardous Concept" %}}." *Technology and Culture* 51, no. 3 (2010): 561–77.
+Marx, Leo. "[Technology: The Emergence of a Hazardous Concept](http://dx.doi.org/10.1353/tech.2010.0009)." *Technology and Culture* 51, no. 3 (2010): 561–77.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -42,16 +42,16 @@ Introduction to key words and concepts (cont.)
 
 Marx, review of *In Context*;
 
-{{% resource_link "b6b2cfaa-dc17-4274-87e5-807c4ecd68b6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Marx, Leo, and Merritt Roe Smith, eds. "Introduction". In *Does Technology Drive History? The Dilemma of Technological Determinism.* MIT Press, 1994. ISBN: 9780262691673. \[Preview with {{% resource_link "5ae7ec21-1002-40ce-bc37-aa3e38a1526e" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691673) Marx, Leo, and Merritt Roe Smith, eds. "Introduction". In *Does Technology Drive History? The Dilemma of Technological Determinism.* MIT Press, 1994. ISBN: 9780262691673. \[Preview with [Google Books](http://books.google.com/books?id=WWztFfsA-QEC&pg=PAfrontcover)\]
 
-Autour, and Dorn. "{{% resource_link "6e65e447-2830-4fd6-a1f8-674265e71399" "How Technology Wrecks the Middle Class?" %}}" *The New York Times*, August 24, 2013.
+Autour, and Dorn. "[How Technology Wrecks the Middle Class?](http://opinionator.blogs.nytimes.com/2013/08/24/how-technology-wrecks-the-middle-class/)" *The New York Times*, August 24, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 STS at MIT
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "72eab917-35df-43fb-b25d-9be57a6946f5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Williams. Chapter 2 in *Retooling: A Historian Confronts Technological Change.* MIT Press, 2003. ISBN: 9780262731638. \[Preview with {{% resource_link "7ce9b4c6-5e5a-4e56-a882-dc80d580bff5" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](http://mitpress.mit.edu/9780262731638) Williams. Chapter 2 in *Retooling: A Historian Confronts Technological Change.* MIT Press, 2003. ISBN: 9780262731638. \[Preview with [Google Books](http://books.google.com/books?id=7teSkSnXRYgC&pg=PA29=onepage)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -72,7 +72,7 @@ No readings
 The Swartz Case and the Abelson Report
 {{< tdclose >}}{{< tdopen >}}
 
-Abelson, Hal, Peter Diamond, et al. {{% resource_link "573bbe4f-c4c8-47c0-bccb-62bb4237454f" "MIT and the Prosecution of Aaron Swartz (PDF - 5.0MB)" %}}. July 26, 2013.
+Abelson, Hal, Peter Diamond, et al. [MIT and the Prosecution of Aaron Swartz (PDF - 5.0MB)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf). July 26, 2013.
 
 Please read the entire body of the report, Parts I through V. Also read Appendices 3, 6, and 8–11. You can skip the other appendices.
 
@@ -82,11 +82,11 @@ Please read the entire body of the report, Parts I through V. Also read Appendic
 Public Responses
 {{< tdclose >}}{{< tdopen >}}
 
-Lin, Leon. "{{% resource_link "2c66620e-066c-4476-a36b-9b75efbc6eaf" "In Swartz Case, MIT 'hands off,' report says" %}}," *The Tech*, August 7, 2013.
+Lin, Leon. "[In Swartz Case, MIT 'hands off,' report says](https://thetech.com/2013/08/07/swartz-v133-n30)," *The Tech*, August 7, 2013.
 
-Swartz, John. "{{% resource_link "df833722-2908-45bd-b3f8-d36bfc8d5e49" "M.I.T. Cleared in Report After Suicide of Activist" %}}," *New York Times*, July 30, 2013.
+Swartz, John. "[M.I.T. Cleared in Report After Suicide of Activist](http://www.nytimes.com/2013/07/31/us/mit-releases-report-on-its-role-in-the-case-of-aaron-swartz.html?_r=1&)," *New York Times*, July 30, 2013.
 
-Cohn, Cindy. "{{% resource_link "32b75b82-3416-4c7c-9ff8-669689aee3cf" "MIT in Aaron Swartz Case: Not Neutral, Not Leading, Not Standing Up for Technologists" %}}," July 31, 2013.
+Cohn, Cindy. "[MIT in Aaron Swartz Case: Not Neutral, Not Leading, Not Standing Up for Technologists](https://www.eff.org/deeplinks/2013/07/mit-aarons-swartz-case-not-neutral-not-leading-not-standing-technologists)," July 31, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -125,16 +125,16 @@ Further research into Asilomar Conference of 1975 or Cambridge City Council reso
 {{< tdclose >}}{{< tdopen >}}
 Photography as technological innovation
 {{< tdclose >}}{{< tdopen >}}
-Lane, Anthony. "{{% resource_link "7bcad35c-62d6-4225-b5f5-4b65aeb3a6a5" "Names and Faces: The Portraits of Julia Margaret Cameron" %}}," *The New Yorker,* September 2, 2013.
+Lane, Anthony. "[Names and Faces: The Portraits of Julia Margaret Cameron](http://www.newyorker.com/arts/critics/atlarge/2013/09/02/130902crat_atlarge_lane?currentPage=all)," *The New Yorker,* September 2, 2013.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
 Users, Consumers, and Producers
 {{< tdclose >}}{{< tdopen >}}
 
-Bauwens, Michel. "{{% resource_link "4da1475c-46aa-45d1-ae74-10333590be1a" "A Critique of 3D Printing as a Critical Technology" %}}."
+Bauwens, Michel. "[A Critique of 3D Printing as a Critical Technology](http://blog.p2pfoundation.net/a-critique-of-3d-printing-as-a-critical-technology/2013/03/16)."
 
-Olivier, M. "\[George Eastman's Modern Stone-Age Family: Snapshot Photography and the Brownie\]({{% resource_link "3b8104ec-3ee1-4eb7-a497-78037df0da31" "http://dx.doi.org/" %}} 10.1353/tech.2007.0035)." *Technology and Culture* 48, no. 1 (2007): 1–19.
+Olivier, M. "\[George Eastman's Modern Stone-Age Family: Snapshot Photography and the Brownie\]([http://dx.doi.org/](http://dx.doi.org/) 10.1353/tech.2007.0035)." *Technology and Culture* 48, no. 1 (2007): 1–19.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -173,7 +173,7 @@ No readings
 {{< tdclose >}}{{< tdopen >}}
 Where Are We Headed? (2) (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Isaacson, Walter. "Legacy." Chapter 42 in *Steve Jobs.* Simon & Schuster, 2011. ISBN: 9781451648539. \[Preview with {{% resource_link "bd808671-e6b3-4d56-a25d-86d7d6916ea1" "Google Books" %}}\]
+Isaacson, Walter. "Legacy." Chapter 42 in *Steve Jobs.* Simon & Schuster, 2011. ISBN: 9781451648539. \[Preview with [Google Books](http://books.google.com/books?id=6e4cDvhrKhgC&pg=PA560=onepage)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}

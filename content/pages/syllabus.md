@@ -41,7 +41,7 @@ Please bring copies of your written work and of any readings to class, whether o
 Academic Honesty
 ----------------
 
-We will discuss MIT's principles and procedures as summarized in {{% resource_link "59970c06-3ef8-4497-a3f8-3e2f5fc498ec" "MIT's Academic Integrity Handbook" %}}, especially the sections on Academic Writing.
+We will discuss MIT's principles and procedures as summarized in [MIT's Academic Integrity Handbook](https://integrity.mit.edu/), especially the sections on Academic Writing.
 
 Collaboration is encouraged in discussing the work of the class. The work itself (writing papers, preparation of oral reports, taking quizzes) must be done on your own.
 

@@ -116,7 +116,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 - Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 - Several seminars featured guest speakers.
 - Students often engaged in discussions and gave oral presentations.
-- Students visited the {{% resource_link "08bbd6a8-aac6-4e2c-b49a-38d13fa89a39" "Institute Archives & Special Collections" %}} and the Kurtz Gallery for Photography at the {{% resource_link "064c6b01-1e16-432d-b15b-2a35fd999552" "MIT Museum" %}}.
+- Students visited the [Institute Archives & Special Collections](http://libraries.mit.edu/archives/) and the Kurtz Gallery for Photography at the [MIT Museum](http://web.mit.edu/museum/).
 
 ### Out of Class
 
