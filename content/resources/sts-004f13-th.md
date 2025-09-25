@@ -9,6 +9,8 @@ description: The Rogers Building was the first building on MIT's campus. Constru
 file: /courses/sts-004-science-technology-world-fall-2013/43736a56d1ea0fd94988305bbdde389b_sts-004f13-th.jpg
 file_size: 5285
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: The Rogers Building was the first building on MIT's campus. Constructed
     in 1866, it contained classrooms, lecture halls, offices, and laboratories, like
