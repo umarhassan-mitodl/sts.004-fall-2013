@@ -35,6 +35,7 @@
     "website": "sts-004-science-technology-world-fall-2013"
   },
   "course_title": "Science, Technology, & World",
+  "hide_download": true,
   "course_description": "This class is an introduction to studies in science, technology, and society (STS), through examining a series of issues, events, conflicts, and problems as illuminated by STS approaches. This iteration includes units on the Aaron Swartz case, photography, and utopia / dystopia. There are regular guest speakers, and several field trips to encourage hands on learning.\n",
   "department_numbers": [
     "STS"
@@ -45,6 +46,7 @@
     "content": "43736a56-d1ea-0fd9-4988-305bbdde389b",
     "website": "sts-004-science-technology-world-fall-2013"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments",
