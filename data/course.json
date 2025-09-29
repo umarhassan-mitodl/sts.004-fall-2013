@@ -46,7 +46,7 @@
     "content": "43736a56-d1ea-0fd9-4988-305bbdde389b",
     "website": "sts-004-science-technology-world-fall-2013"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments",
