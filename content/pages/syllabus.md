@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, attendance, laptop policy, academic honesty, assignments,
   grading, and the schedule of course topics and key dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -43,7 +41,7 @@ Please bring copies of your written work and of any readings to class, whether o
 Academic Honesty
 ----------------
 
-We will discuss MIT's principles and procedures as summarized in [MIT's Academic Integrity Handbook](https://integrity.mit.edu/), especially the sections on Academic Writing.
+We will discuss MIT's principles and procedures as summarized in {{% resource_link "5c44bc0b-7fa8-416f-b979-79e10ed0d140" "MIT's Academic Integrity Handbook" %}}, especially the sections on Academic Writing.
 
 Collaboration is encouraged in discussing the work of the class. The work itself (writing papers, preparation of oral reports, taking quizzes) must be done on your own.
 
